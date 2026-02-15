@@ -48,7 +48,7 @@ ng serve
 http://localhost:4200
 ```
 
-Adicionalmente, puedes visitar el [Link](diseno-modular.vercel.app)
+Adicionalmente, puedes visitar el [Link](https://diseno-modular.vercel.app/)
 
 ---
 

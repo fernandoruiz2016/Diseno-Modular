@@ -1,0 +1,36 @@
+/* Reset básico */
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Barra de navegación */
+nav {
+    background-color: #1e3a8a;
+    padding: 15px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+/* Links */
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    transition: 0.3s ease;
+}
+
+nav a:hover {
+    color: #facc15;
+}
+
+router-outlet {
+    display: block;
+    padding: 20px;
+}

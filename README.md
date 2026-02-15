@@ -48,7 +48,12 @@ ng serve
 http://localhost:4200
 ```
 
+Adicionalmente, puedes visitar el [Link](diseno-modular.vercel.app)
+
+---
+
 ## Estructura del proyecto
+```bash
 src/app
 │
 ├── core/
@@ -71,3 +76,4 @@ src/app
 ├── app.routes.ts
 ├── app.html
 └── app.ts
+```
